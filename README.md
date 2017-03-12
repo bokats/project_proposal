@@ -25,35 +25,34 @@ RoomSurfing is a web application inspired by Couchsurfing built using Ruby on Ra
 [api-endpoints]: docs/api-endpoints.md
 [schema]: docs/schema.md
 
-## Implementation Timeline
+## Implementation Timeline (13 days including weekend)
 
 ### Phase 1: Backend setup and Front End User Authentication (2 days)
 
 **Objective:** Functioning rails project with front-end Authentication
 
-### Phase 2: Notes Model, API, and components (2 days)
+### Phase 2: Bookings, Rooms, Guests Model, API, and components (2 day)
 
-**Objective:** Notes can be created, read, edited and destroyed through
+**Objective:** Bookings, Rooms and Guests can be created, read, edited and destroyed through
 the API.
 
-### Phase 3: Notebooks (2 days)
+### Phase 3: Functionality of app fully implemented (3 days)
 
-**Objective:** Notes belong to Notebooks that can be created, read, edited and destroyed through the API.
+**Objective:** Site is fully functional without any complex styling and looks. User can search through the map, select and book a room. User can also edit bookings and cancel guests for his/her room. Bookings and Guests show up in the Dashboard. User can also add reviews
 
-### Phase 4: Tags (1 day)
+### Phase 4: Styling of Dashboard and Logged In Components (2 days)
 
-**Objective:** Notes can be tagged with multiple tags, and tags are searchable.
+**Objective:** Completed styling and CSS for Dashboard and Logged In components
 
-### Phase 5: Allow Complex Styling in Notes (1 day, W2 Th 6pm)
+### Phase 5: Styling of the search and room details pages, and forms (2 days)
 
-**Objective:** Allow rich text editing of notes.
+**Objective:** Completed styling and CSS for search and room details pages
 
-### Phase 6: - Pagination / infinite scroll for Notes Index (1 day, W2 F 6pm)
+### Phase 6: - Adding extra good looking styling to entire app
 
-**Objective:** Add infinite scroll to Notes Index
+**Objective:** Making entire app look better
 
 ### Bonus Features (TBD)
-- [ ] Search notes by content
-- [ ] Set reminders on notes
-- [ ] Changelogs for Notes
-- [ ] Multiple sessions
+- [ ] Messaging
+- [ ] User/host profiles
+
