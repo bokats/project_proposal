@@ -4,7 +4,7 @@
     id: 1,
     username: "jane_doe123",
     first_name: "Jane",
-    last_name: "Doe
+    last_name: "Doe"
     home_city: "San Francisco"
   },
   forms: {
